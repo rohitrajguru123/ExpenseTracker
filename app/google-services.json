@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674617355826",
+    "project_id": "rohit-123-rajguru",
+    "storage_bucket": "rohit-123-rajguru.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674617355826:android:1acdd71941302e22d8162b",
+        "android_client_info": {
+          "package_name": "com.example.expensetrackerrohit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2tUM5BO4W1WJE3r4wdJHnEOk3SKaA7eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
